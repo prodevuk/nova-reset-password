@@ -38,7 +38,8 @@ Add the PasswordResetCard to your NovaServiceProvider:
 
   
 
-```use  YourVendor\NovaPasswordReset\Nova\PasswordResetCard;
+```
+use  Prodevel\NovaPasswordReset\Nova\PasswordResetCard;
 
   
 
